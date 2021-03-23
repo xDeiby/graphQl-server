@@ -1,4 +1,4 @@
-// * Part 2
+// * Part two
 // const { ApolloServer, gql, UserInputError } = require("apollo-server");
 // const { v1: uuid } = require("uuid");
 
